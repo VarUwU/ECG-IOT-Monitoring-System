@@ -29,6 +29,12 @@ This script will guide you through the setup process for the ECG-IOT-Monitoring-
 2. Add a new device and configure it with the appropriate settings.
 3. View the processed ECG data in real-time or download it for offline analysis.
 
+### Code Files
+
+- `p1.c`: code for processing ECG sensor data
+- `p2.c`: code for sending ECG data to cloud server
+- `main.c`: main code file for integrating `p1.c` and `p2.c`
+
 That's it! You've successfully set up the ECG-IOT-Monitoring-System. If you encounter any issues or have any questions, please refer to the documentation or seek help from the community.
 
 Done by Aditya Ram (@VarUwU)
